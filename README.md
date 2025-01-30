@@ -1,6 +1,7 @@
-## Hola, soy hevieri👋
 
-(https://github.com/hevieri/CV/raw/main/img/logoazul.png)
+Hola, soy hevieri👋  
+![Logo Azul](https://github.com/hevieri/CV/raw/main/img/logoazul.png)
+
 
 <!--
 **hevieri/hevieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
