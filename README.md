@@ -1,6 +1,5 @@
 ¡Hola! Soy hevieri 👋  
 Soy Diseñadora Gráfica Digital con formación técnica en Diseño Gráfico Digital.  
-![Zorro Cartoon](https://cdn.pixabay.com/photo/2017/01/31/18/36/animal-2026297_1280.png)
 
 Actualmente, me encuentro armando mi portafolio profesional con la intención de mostrar mis habilidades de manera atractiva y accesible. Este portafolio no solo es una colección de proyectos, sino una meta para seguir aprendiendo y creciendo como profesional. Mi objetivo es seguir expandiendo mis conocimientos en nuevas tecnologías y mejorar continuamente.😄
 
