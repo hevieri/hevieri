@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hola, soy hevieri👋
+
+(https://github.com/hevieri/CV/raw/main/img/logoazul.png)
 
 <!--
 **hevieri/hevieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Code Quality](https://img.shields.io/codeclimate/quality/grade/hevieri/readme)
 
 Here are some ideas to get you started:
 
