@@ -1,31 +1,39 @@
-¡Hola! Soy hevieri 👋  
-Soy Diseñadora Gráfica Digital con formación técnica en Diseño Gráfico Digital.  
+# ¡Hola! Soy hevieri 👋  ![Estado del perfil](https://img.shields.io/badge/Status-Disponible%20para%20nuevos%20proyectos-brightgreen)
 
-Actualmente, me encuentro armando mi portafolio profesional con la intención de mostrar mis habilidades de manera atractiva y accesible. Este portafolio no solo es una colección de proyectos, sino una meta para seguir aprendiendo y creciendo como profesional. Mi objetivo es seguir expandiendo mis conocimientos en nuevas tecnologías y mejorar continuamente.😄
+Con formación técnica en Diseño Gráfico Digital y diversos cursos especializados en áreas complementarias.
+Estoy creando mi portafolio para mostrar mis habilidades y proyectos, mientras busco oportunidades para seguir aprendiendo y creciendo profesionalmente. 😄
+🌟 **Habilidades blandas**  
 
-✨Gracias por visitar mi espacio. ✨
+| **Trabajo en equipo** 🤝  | **Creatividad** 💡   |  
+|---------------------------|----------------------|  
+| **Comunicación efectiva** 💬 | **Resolución de problemas** 🔍 |  
+| **Dedicación** 🔧         | **Organización** 📅   |  
 
-### Mis habilidades
 
-#### Front-End
-![HTML](https://img.shields.io/badge/HTML-%E2%9C%94-orange)  
-![CSS](https://img.shields.io/badge/CSS-%E2%9C%94-blue)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%E2%9C%94-blueviolet)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%94-yellow)  
-![jQuery](https://img.shields.io/badge/jQuery-%E2%9C%94-blue)  
 
-#### Back-End
-![WordPress](https://img.shields.io/badge/WordPress-%E2%9C%94-blue)  
-![PHP](https://img.shields.io/badge/PHP-%E2%9C%94-blue)  
-![SQL](https://img.shields.io/badge/SQL-%E2%9C%94-darkblue)  
+## Mis estadísticas de GitHub
 
-#### Herramientas y Versionamiento
-![Git](https://img.shields.io/badge/Git-%E2%9C%94-orange)  
-![GitHub](https://img.shields.io/badge/GitHub-%E2%9C%94-black)  
-![Figma](https://img.shields.io/badge/Figma-%E2%9C%94-purple)
 
-#### UX/UI
-![UX/UI](https://img.shields.io/badge/UX%2FUI-%E2%9C%94-green)
+![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=hevieri&langs_count=6&count_private=true&show_icons=true&hide_title=true&layout=compact)
+## 🚀 Proyectos Destacados
+
+- [Proyecto 1: Mi primer sitio web](https://github.com/hevieri/proyecto1)
+- [Proyecto 2: Aplicación de notas](https://github.com/hevieri/proyecto2)
+- [Proyecto 3: Rediseño de una interfaz UX](https://github.com/hevieri/proyecto3)
+
+🔧 Estoy trabajando en más proyectos, ¡pronto los verás! 😄
+
+
+## ¡Conectemos!
+
+Si estás buscando alguien para colaborar, desarrollar proyectos interesantes o compartir conocimientos, ¡no dudes en contactarme!
+
+📫 **Correo**: [hevieri.dev@gmail.com](mailto:hevieri.dev@gmail.com)
+
+🔗 **LinkedIn**: [Erika Helfenstern](https://www.linkedin.com/in/erika-helfenstern-89b9a9233/)
+
+
+
 
 <!--
 **hevieri/hevieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
