@@ -17,9 +17,9 @@ Estoy creando mi portafolio para mostrar mis habilidades y proyectos, mientras b
 ![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=hevieri&langs_count=6&count_private=true&show_icons=true&hide_title=true&layout=compact)
 ## 🚀 Proyectos Destacados
 
-- [Proyecto 1: Mi primer sitio web](https://github.com/hevieri/proyecto1)
-- [Proyecto 2: Aplicación de notas](https://github.com/hevieri/proyecto2)
-- [Proyecto 3: Rediseño de una interfaz UX](https://github.com/hevieri/proyecto3)
+- [Proyecto 1: Mi primer sitio web](https://github.com/hevieri/SitioWebMorningstar)
+- [Proyecto 2: Web sencilla aplicando Base de Datos](https://github.com/hevieri/MugiwaraWeb)
+- [Proyecto 3: Interfaz Dinámica](https://github.com/hevieri/SlotMachine)
 
 🔧 Estoy trabajando en más proyectos, ¡pronto los verás! 😄
 
