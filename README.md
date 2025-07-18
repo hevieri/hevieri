@@ -43,6 +43,28 @@ Estoy creando mi portafolio para mostrar mis habilidades y proyectos, mientras b
 
 ## 🚀 Proyectos Destacados
 
+<table>
+  <tr>
+    <!-- Proyecto 1 -->
+    <td style="width: 50%; vertical-align: top;">
+      <table>
+        <tr>
+          <td style="width: 60px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+          </td>
+          <td style="vertical-align: middle; padding-left: 10px;">
+            <p style="margin: 0; font-size: 14px;">
+              <a href="https://github.com/hevieri/MugiwaraWeb" target="_blank">Web sencilla aplicando Base de Datos</a>
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+
+
+
+
+
 - [Proyecto 1: Mi primer sitio web](https://github.com/hevieri/SitioWebMorningstar)
 - [Proyecto 2: Web sencilla aplicando Base de Datos](https://github.com/hevieri/MugiwaraWeb)
 - [Proyecto 3: Interfaz Dinámica](https://github.com/hevieri/SlotMachine)
@@ -54,9 +76,22 @@ Estoy creando mi portafolio para mostrar mis habilidades y proyectos, mientras b
 
 Si estás buscando alguien para colaborar, desarrollar proyectos interesantes o compartir conocimientos, ¡no dudes en contactarme!
 
-📫 **Correo**: [hevieri.dev@gmail.com](mailto:hevieri.dev@gmail.com)
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/hevieri/hevieri/main/hevieri-redes.png" width="100" />
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+      <p style="margin: 0; font-size: 14px;">
+        📫 <strong>Correo:</strong> <a href="mailto:hevieri.dev@gmail.com">hevieri.dev@gmail.com</a><br />
+        🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/erikahelfenstern" target="_blank">linkedin.com/in/erikahelfenstern</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-🔗 **LinkedIn**: [Erika Helfenstern](https://www.linkedin.com/in/erika-helfenstern-89b9a9233/)
+
+
 
 
 
