@@ -1,3 +1,6 @@
+https://raw.githubusercontent.com/hevieri/hevieri/main/banner-hevieri.png
+
+
 # ¡Hola! Soy hevieri 👋  ![Estado del perfil](https://img.shields.io/badge/Status-Disponible%20para%20nuevos%20proyectos-brightgreen)
 
 Con formación técnica en Diseño Gráfico Digital y diversos cursos especializados en áreas complementarias.
