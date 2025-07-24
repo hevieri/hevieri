@@ -1,113 +1,169 @@
+![Perfil técnico](https://img.shields.io/badge/Perfil-Desarrolladora%20Web-blueviolet?style=flat-square)
+
+
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=hevieri&label=Visitas%20al%20perfil&color=blue&style=flat-square" alt="Visitas al perfil"/>
+</div>
+
+
 ![Banner personalizado](https://raw.githubusercontent.com/hevieri/hevieri/main/hevieri-banner.png)
 
 
 
-# ¡Hola! Soy hevieri 👋  ![Estado del perfil](https://img.shields.io/badge/Status-Disponible%20para%20nuevos%20proyectos-brightgreen)
+<h1>👋 ¡Hola! Soy Hevieri</h1>
 
-Con formación técnica en Diseño Gráfico Digital y diversos cursos especializados en áreas complementarias.
-Estoy creando mi portafolio para mostrar mis habilidades y proyectos, mientras busco oportunidades para seguir aprendiendo y creciendo profesionalmente. 😄
-🌟 **Habilidades blandas**  
+---
 
-| **Trabajo en equipo** 🤝  | **Creatividad** 💡   |  
-|---------------------------|----------------------|  
-| **Comunicación efectiva** 💬 | **Resolución de problemas** 🔍 |  
-| **Dedicación** 🔧         | **Organización** 📅   |  
+## 💫 Sobre mí
 
+- 🖐️ ¡Hola Mundo! Soy Hevieri, me especializo en Desarrollo Web  
+- 🧠 Mi siguiente meta es aplicar lo aprendido en un entorno profesional y seguir creciendo  
+- 🧡 Me capacito constantemente de forma autodidacta para dominar nuevas herramientas
 
+---
 
-## Mis estadísticas de GitHub
+## 📚 Formación
 
-
-![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=hevieri&langs_count=6&count_private=true&show_icons=true&hide_title=true&layout=compact)
-
-## 🧰 Tecnologías que uso
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://img.icons8.com/color/512/vite.png" width="40" />&nbsp;&nbsp;
+<p align="center">
+  Diseñadora gráfica técnica especializada en desarrollo web.<br/>
+  Estoy construyendo mi portafolio mientras exploro nuevas herramientas, colaboro en proyectos y sigo aprendiendo. 💻✨
 </p>
 
+<div align="center">
+
+<p>
+🖌️ Tecnicatura en Diseño Gráfico Digital – ORT <em>(2024)</em><br/>
+📱 Analista en Diseño de Interfaces – ORT <em>(2023)</em><br/>
+🗃️ Programación Web con PHP & SQL – Educación IT <em>(2024)</em><br/>
+🌐 Wordpress – Educación IT <em>(2022)</em><br/>
+🟨 Javascript desde cero – Educación IT <em>(2024)</em><br/>
+📄 Maquetador Web: HTML & CSS – Educación IT <em>(2022)</em>
 </p>
 
+</div>
 
-</p>
+---
 
-## 🚀 Proyectos Destacados
+## 📚 Skills Personales
+
+<div align="center">
 
 <table>
   <tr>
-    <!-- Proyecto 1 -->
-    <td style="width: 50%; vertical-align: top;">
-      <table>
-        <tr>
-          <td style="width: 60px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-          </td>
-          <td style="vertical-align: middle; padding-left: 10px;">
-            <p style="margin: 0; font-size: 14px;">
-              <a href="https://github.com/hevieri/MugiwaraWeb" target="_blank">Web sencilla aplicando Base de Datos</a>
-            </p>
-          </td>
-        </tr>
-      </table>
-    </td>
-
-
-
-
-
-- [Proyecto 1: Mi primer sitio web](https://github.com/hevieri/SitioWebMorningstar)
-- [Proyecto 2: Web sencilla aplicando Base de Datos](https://github.com/hevieri/MugiwaraWeb)
-- [Proyecto 3: Interfaz Dinámica](https://github.com/hevieri/SlotMachine)
-
-🔧 Estoy trabajando en más proyectos, ¡pronto los verás! 😄
-
-
-## ¡Conectemos!
-
-Si estás buscando alguien para colaborar, desarrollar proyectos interesantes o compartir conocimientos, ¡no dudes en contactarme!
-
-<table>
+    <td align="center"><strong>🤝<br/>Trabajo en equipo</strong></td>
+    <td align="center"><strong>💡<br/>Creatividad</strong></td>
+  </tr>
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/hevieri/hevieri/main/hevieri-redes.png" width="100" />
-    </td>
-    <td style="vertical-align: middle; padding-left: 15px;">
-      <p style="margin: 0; font-size: 14px;">
-        📫 <strong>Correo:</strong> <a href="mailto:hevieri.dev@gmail.com">hevieri.dev@gmail.com</a><br />
-        🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/erikahelfenstern" target="_blank">linkedin.com/in/erikahelfenstern</a>
-      </p>
-    </td>
+    <td align="center"><strong>💬<br/>Comunicación efectiva</strong></td>
+    <td align="center"><strong>🔍<br/>Resolución de problemas</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔧<br/>Dedicación</strong></td>
+    <td align="center"><strong>📅<br/>Organización</strong></td>
   </tr>
 </table>
 
+</div>
+
+---
+
+## 💻 Tecnologías que uso
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://img.icons8.com/color/512/vite.png" width="40" />
+</p>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>📦 Proyecto</th>
+      <th>🔧 Tecnologías</th>
+      <th>🔗 Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🎨 Mi primer sitio web</strong><br/><em>Estático con HTML y CSS</em></td>
+      <td>HTML, CSS</td>
+      <td><a href="https://github.com/hevieri/SitioWebMorningstar">GitHub</a></td>
+    </tr>
+    <tr>
+      <td><strong>📊 Web con base de datos</strong><br/><em>Backend con PHP</em></td>
+      <td>PHP, MySQL</td>
+      <td><a href="https://github.com/hevieri/MugiwaraWeb">GitHub</a></td>
+    </tr>
+    <tr>
+      <td><strong>🧩 Interfaz dinámica</strong><br/><em>SlotMachine</em></td>
+      <td>HTML, CSS, JS</td>
+      <td><a href="https://github.com/hevieri/SlotMachine">GitHub</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center"><em>Más proyectos en camino... ¡están cocinándose! 🍳🚀</em></p>
+
+---
+
+## 🏗️ Próximamente
+
+- 💬 Sitio Web consumiendo API  
+- 🔧 Calculador  
+- 🎮 Juego interactivo  
+- 📁 Portfolio con Astro  
+
+---
+
+## 🌐 Socials
+
+<div align="center">
+  <p style="font-size: 15px;">
+    <em>¿Buscás alguien para contratar, colaborar o compartir ideas?</em><br />
+    <strong>¡Contactame en cualquiera de estas plataformas!</strong>
+  </p>
+  <a href="mailto:hevieri.dev@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hevieri/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/hevieri">
+    <img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://wa.me/5491162178105">
+    <img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
 
 
 
 
+<p align="center">
+  <em>“Pixel a pixel, construyo lo que imagino.”</em><br/>
+  <strong>— Hevieri</strong> 🧷✨
+</p>
+
+<p align="center">
+  <a href="mailto:hevieri.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-¡Contratame!-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Contratame"/>
+  </a>
+</p>
 
 
-<!--
-**hevieri/hevieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Code Quality](https://img.shields.io/codeclimate/quality/grade/hevieri/readme)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
