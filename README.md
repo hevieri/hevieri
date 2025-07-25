@@ -9,9 +9,22 @@
 
 ![Banner personalizado](https://raw.githubusercontent.com/hevieri/hevieri/main/hevieri-banner.png)
 
+<h3 align="center">
+  ¡Hola! Soy Hevieri ✨
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+</h3>
+
+<p align="center">
+  <a href="https://github.com/erikahelfenstern">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?color=%23F5872E&center=true&vCenter=true&lines=Bienvenidos+a+mis+proyectos+Hevieri+Tools;Dise%C3%B1o+interfaces+claras+y+modulares;Frontend+visual+con+coraz%C3%B3n+did%C3%A1ctico;Code+%2B+Color+%2B+Experiencia+de+Usuario"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 
-<h1>👋 ¡Hola! Soy Hevieri</h1>
+
 
 ---
 
