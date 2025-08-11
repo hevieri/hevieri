@@ -128,7 +128,7 @@
     <tr>
       <td>
         <strong>🧮 Calculadora JS</strong><br/>
-        <em>Operaciones básicas, teclado y historial; diseño responsive</em>
+        <em>Operaciones varias, y calculos</em>
       </td>
       <td>HTML, CSS, JavaScript</td>
       <td>
