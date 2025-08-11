@@ -114,20 +114,32 @@
     <tr>
       <td><strong>🎨 Mi primer sitio web</strong><br/><em>Estático con HTML y CSS</em></td>
       <td>HTML, CSS</td>
-      <td><a href="https://github.com/hevieri/SitioWebMorningstar">GitHub</a></td>
+      <td><a href="https://github.com/hevieri/SitioWebMorningstar">GitHub</a>
+        &nbsp;|&nbsp;
+        <a href="https://hevieri.github.io/SitioWebMorningstar">Demo</a>
+      </td>
     </tr>
     <tr>
       <td><strong>📊 Web con base de datos</strong><br/><em>Backend con PHP</em></td>
       <td>PHP, MySQL</td>
-      <td><a href="https://github.com/hevieri/MugiwaraWeb">GitHub</a></td>
+      <td><a href="https://github.com/hevieri/MugiwaraWeb">GitHub</a>
+      </td>
     </tr>
     <tr>
-      <td><strong>🧩 Interfaz dinámica</strong><br/><em>SlotMachine</em></td>
-      <td>HTML, CSS, JS</td>
-      <td><a href="https://github.com/hevieri/SlotMachine">GitHub</a></td>
+      <td>
+        <strong>🧮 Calculadora JS</strong><br/>
+        <em>Operaciones básicas, teclado y historial; diseño responsive</em>
+      </td>
+      <td>HTML, CSS, JavaScript</td>
+      <td>
+        <a href="https://github.com/hevieri/Calculador">GitHub</a>
+        &nbsp;|&nbsp;
+        <a href="https://hevieri.github.io/Calculador">Demo</a>
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 <p align="center"><em>Más proyectos en camino... ¡están cocinándose! 🍳🚀</em></p>
 
@@ -136,7 +148,6 @@
 ## 🏗️ Próximamente
 
 - 💬 Sitio Web consumiendo API  
-- 🔧 Calculador  
 - 🎮 Juego interactivo  
 - 📁 Portfolio con Astro  
 
