@@ -30,7 +30,7 @@
 
 ## 💫 Sobre mí
 
-- 🖐️ ¡Hola Mundo! Soy Hevieri, me especializo en Desarrollo Web  
+- 🖐️ ¡Hola Mundo! Soy Hevieri, me especializo en Desarrollo Web  y Testing QA 
 - 🧠 Mi siguiente meta es aplicar lo aprendido en un entorno profesional y seguir creciendo  
 - 🧡 Me capacito constantemente de forma autodidacta para dominar nuevas herramientas
 
@@ -84,18 +84,20 @@
 ## 💻 Tecnologías que uso
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://img.icons8.com/color/512/vite.png" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+<img src="https://img.icons8.com/color/48/tailwindcss.png" width="40" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" />
+
+
 </p>
 
 ---
@@ -143,13 +145,6 @@
 
 <p align="center"><em>Más proyectos en camino... ¡están cocinándose! 🍳🚀</em></p>
 
----
-
-## 🏗️ Próximamente
-
-- 💬 Sitio Web consumiendo API  
-- 🎮 Juego interactivo  
-- 📁 Portfolio con Astro  
 
 ---
 
@@ -182,11 +177,7 @@
   <strong>— Hevieri</strong> 🧷✨
 </p>
 
-<p align="center">
-  <a href="mailto:hevieri.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-¡Contratame!-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Contratame"/>
-  </a>
-</p>
+
 
 
 
