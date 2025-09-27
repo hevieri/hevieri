@@ -1,4 +1,6 @@
-![Perfil técnico](https://img.shields.io/badge/Perfil-Desarrolladora%20Web-blueviolet?style=flat-square)
+![Desarrollo Web](https://img.shields.io/badge/Perfil-Desarrollo%20Web-9b4dff)
+![Testing QA](https://img.shields.io/badge/Perfil-Testing%20QA-ff6b81)
+
 
 
 
@@ -7,21 +9,25 @@
 </div>
 
 
-![Banner personalizado](https://raw.githubusercontent.com/hevieri/hevieri/main/hevieri-banner.png)
+
 
 <h3 align="center">
-  ¡Hola! Soy Hevieri ✨
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+  ¡Hola! Soy Hevieri ✨
+  
 </h3>
+
 
 <p align="center">
   <a href="https://github.com/erikahelfenstern">
     <img
-      src="https://readme-typing-svg.herokuapp.com?color=%23F5872E&center=true&vCenter=true&lines=Bienvenidos+a+mis+proyectos+Hevieri+Tools;Dise%C3%B1o+interfaces+claras+y+modulares;Frontend+visual+con+coraz%C3%B3n+did%C3%A1ctico;Code+%2B+Color+%2B+Experiencia+de+Usuario"
+      src="https://readme-typing-svg.herokuapp.com?color=%239B4DFF&center=true&vCenter=true&width=650&height=45&size=22&lines=Desarrollo+Web+%7C+Testing+QA;Interfaces+claras+y+funcionales"
       alt="Typing SVG"
     />
   </a>
 </p>
+
+
 
 
 
@@ -39,45 +45,27 @@
 ## 📚 Formación
 
 <p align="center">
-  Diseñadora gráfica técnica especializada en desarrollo web.<br/>
-  Estoy construyendo mi portafolio mientras exploro nuevas herramientas, colaboro en proyectos y sigo aprendiendo. 💻✨
+  🎨 Diseñadora gráfica técnica especializada en <strong>desarrollo web</strong>.<br/>
+  Actualmente construyo mi portafolio mientras exploro nuevas herramientas, colaboro en proyectos y sigo aprendiendo. 💻✨
 </p>
-
-<div align="center">
-
-<p>
-🖌️ Tecnicatura en Diseño Gráfico Digital – ORT <em>(2024)</em><br/>
-📱 Analista en Diseño de Interfaces – ORT <em>(2023)</em><br/>
-🗃️ Programación Web con PHP & SQL – Educación IT <em>(2024)</em><br/>
-🌐 Wordpress – Educación IT <em>(2022)</em><br/>
-🟨 Javascript desde cero – Educación IT <em>(2024)</em><br/>
-📄 Maquetador Web: HTML & CSS – Educación IT <em>(2022)</em>
-</p>
-
-</div>
 
 ---
 
-## 📚 Skills Personales
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center"><strong>🤝<br/>Trabajo en equipo</strong></td>
-    <td align="center"><strong>💡<br/>Creatividad</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>💬<br/>Comunicación efectiva</strong></td>
-    <td align="center"><strong>🔍<br/>Resolución de problemas</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🔧<br/>Dedicación</strong></td>
-    <td align="center"><strong>📅<br/>Organización</strong></td>
-  </tr>
-</table>
+| 📅 Año | 📖 Formación |
+|-------|--------------|
+| 2025 | 🧪 **Testing QA Manual** – Talento Tech |
+| 2024 | 🖌️ **Tecnicatura en Diseño Gráfico Digital** – ORT |
+| 2024 | 🗃️ **Programación Web con PHP & SQL** – Educación IT |
+| 2024 | 🟨 **Javascript desde cero** – Educación IT |
+| 2023 | 📱 **Analista en Diseño de Interfaces** – ORT |
+| 2022 | 🌐 **WordPress** – Educación IT |
+| 2022 | 📄 **Maquetador Web: HTML & CSS** – Educación IT |
 
 </div>
+
+
 
 ---
 
@@ -102,49 +90,43 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+# 🚀 Proyectos Destacados
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>📦 Proyecto</th>
-      <th>🔧 Tecnologías</th>
-      <th>🔗 Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>🎨 Mi primer sitio web</strong><br/><em>Estático con HTML y CSS</em></td>
-      <td>HTML, CSS</td>
-      <td><a href="https://github.com/hevieri/SitioWebMorningstar">GitHub</a>
-        &nbsp;|&nbsp;
-        <a href="https://hevieri.github.io/SitioWebMorningstar">Demo</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>📊 Web con base de datos</strong><br/><em>Backend con PHP</em></td>
-      <td>PHP, MySQL</td>
-      <td><a href="https://github.com/hevieri/MugiwaraWeb">GitHub</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>🧮 Calculadora JS</strong><br/>
-        <em>Operaciones varias, y calculos</em>
-      </td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>
-        <a href="https://github.com/hevieri/Calculador">GitHub</a>
-        &nbsp;|&nbsp;
-        <a href="https://hevieri.github.io/Calculador">Demo</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+Aquí encontrarás algunos de mis proyectos más importantes.  
+Más proyectos están en camino... ¡se están cocinando! 🍳🚀  
 
+---
 
-<p align="center"><em>Más proyectos en camino... ¡están cocinándose! 🍳🚀</em></p>
+### 🎨 Web Responsiva
+📌 *Sitio estático con HTML y CSS*  
+🔧 **Tecnologías:** `HTML`, `CSS`  
+🔗 **Links:** [📂 Código](https://github.com/hevieri/SitioWebMorningstar) | [🌐 Demo](https://hevieri.github.io/SitioWebMorningstar)
 
+---
+
+### 📊 Web con base de datos
+📌 *Backend con PHP y MySQL*  
+🔧 **Tecnologías:** `PHP`, `MySQL`  
+🔗 **Links:** [📂 Código](https://github.com/hevieri/MugiwaraWeb)
+
+---
+
+### 🧮 Calculador JS
+📌 *Operaciones y cálculos dinámicos*  
+🔧 **Tecnologías:** `HTML`, `CSS`, `JavaScript`  
+🔗 **Links:** [📂 Código](https://github.com/hevieri/Calculador) | [🌐 Demo](https://hevieri.github.io/Calculador)
+
+---
+
+### ✅ Tasky
+📌 *Aplicación web minimalista y modular para gestionar tareas.*  
+Permite **subir un archivo JSON con tareas**, visualizarlas en distintos formatos (Kanban, Roadmap, Gráfico de torta, Resumen), editarlas y exportarlas nuevamente.  
+🔧 **Tecnologías:** `React`, `Recharts`, `html2canvas`, `jsPDF`, `Vite`   
+🔗 **Links:** [📂 Código](https://github.com/hevieri/Tasky) | [🌐 Demo](https://hevieri.github.io/Tasky)
+
+---
+
+✨ *Sigo creando y mejorando proyectos para aprender nuevas tecnologías.*
 
 ---
 
