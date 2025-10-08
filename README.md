@@ -90,45 +90,6 @@
 
 ---
 
-# 🚀 Proyectos Destacados
-
-Aquí encontrarás algunos de mis proyectos más importantes.  
-Más proyectos están en camino... ¡se están cocinando! 🍳🚀  
-
----
-
-### 🎨 Web Responsiva
-📌 *Sitio estático con HTML y CSS*  
-🔧 **Tecnologías:** `HTML`, `CSS`  
-🔗 **Links:** [📂 Código](https://github.com/hevieri/SitioWebMorningstar) | [🌐 Demo](https://hevieri.github.io/SitioWebMorningstar)
-
----
-
-### 📊 Web con base de datos
-📌 *Backend con PHP y MySQL*  
-🔧 **Tecnologías:** `PHP`, `MySQL`  
-🔗 **Links:** [📂 Código](https://github.com/hevieri/MugiwaraWeb)
-
----
-
-### 🧮 Calculador JS
-📌 *Operaciones y cálculos dinámicos*  
-🔧 **Tecnologías:** `HTML`, `CSS`, `JavaScript`  
-🔗 **Links:** [📂 Código](https://github.com/hevieri/Calculador) | [🌐 Demo](https://hevieri.github.io/Calculador)
-
----
-
-### ✅ Tasky
-📌 *Aplicación web minimalista y modular para gestionar tareas.*  
-Permite **subir un archivo JSON con tareas**, visualizarlas en distintos formatos (Kanban, Roadmap, Gráfico de torta, Resumen), editarlas y exportarlas nuevamente.  
-🔧 **Tecnologías:** `React`, `Recharts`, `html2canvas`, `jsPDF`, `Vite`   
-🔗 **Links:** [📂 Código](https://github.com/hevieri/Tasky) | [🌐 Demo](https://hevieri.github.io/Tasky)
-
----
-
-✨ *Sigo creando y mejorando proyectos para aprender nuevas tecnologías.*
-
----
 
 ## 🌐 Socials
 
