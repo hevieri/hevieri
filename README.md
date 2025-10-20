@@ -51,24 +51,6 @@
 
 ---
 
-<div align="center">
-
-| 📅 Año | 📖 Formación |
-|-------|--------------|
-| 2025 | 🧪 **Testing QA Manual** – Talento Tech |
-| 2024 | 🖌️ **Tecnicatura en Diseño Gráfico Digital** – ORT |
-| 2024 | 🗃️ **Programación Web con PHP & SQL** – Educación IT |
-| 2024 | 🟨 **Javascript desde cero** – Educación IT |
-| 2023 | 📱 **Analista en Diseño de Interfaces** – ORT |
-| 2022 | 🌐 **WordPress** – Educación IT |
-| 2022 | 📄 **Maquetador Web: HTML & CSS** – Educación IT |
-
-</div>
-
-
-
----
-
 ## 💻 Tecnologías que uso
 
 <p align="center">
