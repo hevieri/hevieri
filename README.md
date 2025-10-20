@@ -42,15 +42,6 @@
 
 ---
 
-## 📚 Formación
-
-<p align="center">
-  🎨 Diseñadora gráfica técnica especializada en <strong>desarrollo web</strong>.<br/>
-  Actualmente construyo mi portafolio mientras exploro nuevas herramientas, colaboro en proyectos y sigo aprendiendo. 💻✨
-</p>
-
----
-
 ## 💻 Tecnologías que uso
 
 <p align="center">
