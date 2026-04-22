@@ -97,6 +97,21 @@
 </table>
 </p>
 
+### 🧪 Testing
+<p align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/><br/>Selenium
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40"/><br/>Pytest
+    </td>
+  </tr>
+</table>
+</p>
+
+
 ### 🔧 Otras
 <p align="center">
 <table>
