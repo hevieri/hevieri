@@ -55,7 +55,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress,html,css,bootstrap,javascript,jquery,react,php,mysql,python,selenium,figma,git,github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" />
-  <img src="https://img.icons8.com/color/48/jira.png" width="40"/>
 </p>
 
 
