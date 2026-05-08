@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Erika%20Helfenstern-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://wa.me/54911TU_NUMERO" target="_blank">
+  <a href="https://wa.me/5491162178105" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Escribime-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 
