@@ -33,11 +33,13 @@
     <img src="https://img.shields.io/badge/Email-hevieri.dev@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <a href="https://tu-sitio-web.com" target="_blank">
-    <img src="https://img.shields.io/badge/Sitio%20Web-Portfolio-8A2BE2?logo=google-chrome&logoColor=white" alt="Sitio Web" />
-  </a>
+
 </p>
 
+<!--
+  <a href="https://tu-sitio-web.com" target="_blank">
+    <img src="https://img.shields.io/badge/Sitio%20Web-Portfolio-8A2BE2?logo=google-chrome&logoColor=white" alt="Sitio Web" />
+  </a>-->
 ---
 
 ## 🌈 Sobre mí
