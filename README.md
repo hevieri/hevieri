@@ -63,12 +63,6 @@
 ---
 
 
-## 🏆 Trofeos GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hevieri&theme=dracula&title=Commits,Repositories,Stars&column=3&margin-w=15&margin-h=15" />
-</p>
-
 
 
 
