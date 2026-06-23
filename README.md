@@ -18,7 +18,7 @@
 -->
 
 <h1 align="center">✨ Hola, soy <strong>Erika Helfenstern</strong> 👩‍💻</h1>
-<h3 align="center"> Desarrolladora Web | QA Tester 🚀</h3>
+<h3 align="center"> Desarrolladora Web | QA Tester 🚀</h3> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hevieri/" target="_blank">
@@ -34,6 +34,11 @@
   </a>
 
 
+</p>
+<p align="center">
+  <a href=https://hevieri.github.io/cv-hevieri/>
+    <img src="https://img.shields.io/badge/-Ver%20mi%20CV-4A90D9?style=for-the-badge" />
+  </a>
 </p>
 
 <!--
