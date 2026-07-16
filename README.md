@@ -54,14 +54,42 @@
 - 🧡 Me capacito constantemente de forma autodidacta para dominar nuevas herramientas
 
 
+
 ---
 
+## 🌱 Actualmente aprendiendo
 
-## ⚙️ Tecnologías y herramientas
+- React Avanzado
+- QA Automation
+- Node.js
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,html,css,bootstrap,javascript,jquery,react,php,mysql,python,selenium,figma,git,github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" />
+---
+
+## 🛠 Tecnologías
+
+### 💻 Front-End
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</p>
+
+### ⚙️ Back-End
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+### 🧪 Testing
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
 </p>
 
 
@@ -69,7 +97,27 @@
 
 
 
+## 📊 GitHub Analytics
+
+<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hevieri&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hevieri&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hevieri&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hevieri&theme=github_dark&utcOffset=-3"/>
+</p>
 
 
+---
 
+## 🏆 Certificaciones
+
+- ✅ QA Manual – Talento Tech (2025)
+- ✅ Diseñadora Gráfica Digital – ORT
+- ✅ Analista en Diseño de Interfaces – ORT
+- ✅ Programación Web con PHP & SQL – Educación IT
+- ✅ WordPress – Educación IT
+- ✅ JavaScript desde Cero – Educación IT
 
