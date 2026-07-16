@@ -99,7 +99,7 @@
 
 
 ## 🏆 Certificaciones
-- ✅ Back End con Node - Talento Tech (2026)
+- ✅ Back End con Node - Talento Tech (2026) 
 - ✅ QA Manual - XAcademy (2026)
 - ✅ QA Automation – Talento Tech (2026)
 - ✅ QA Manual – Talento Tech (2025)
@@ -110,4 +110,40 @@
 
 
 ---
+## 🏆 Certificaciones
 
+<details>
+<summary><b>🧪 QA / Testing</b> — 5 certificaciones</summary>
+
+
+- **QA Manual** — XAcademy (2026) · [Proximamente](#)
+- **Aseguramiento de calidad de Software** — Talento Tech (2026) · [Ver Insignia](https://drive.google.com/file/d/1g8vKSLhuvMhSqz06Tx-VIJ9dDjxwjG-3/view)
+- **Carrera QA Automation** — Academia QA (2026) · [Ver constancia](https://drive.google.com/file/d/1k_wQLLdzE71DqmBYnnigk8z0tDpVrfSz/view)
+- **QA Automation** — Talento Tech (2026) · [Ver constancia](https://drive.google.com/file/d/1zOr6J7qwrTZz85NQMQgdi7s5xTBchUEU/view)
+- **QA Manual** — Talento Tech (2025) · [Ver constancia](https://drive.google.com/file/d/1rCixeX1xjnzvbmsziTBvdn0HSRui_aMi/view)
+</details>
+
+<details>
+<summary><b>💻 Front-End</b> — 4 certificación</summary>
+
+- **JavaScript desde Cero** — Educación IT (2022) · [Ver constancia](https://drive.google.com/file/d/1HTbUpKZTESGYs_XkxTqjJ3zvgYeh3btX/view)
+- **Desarrollo Web** — Educación IT (2022) · [Ver constancia](https://drive.google.com/drive/u/1/folders/1PTBXKo1Edqmyaa5PZQUeXpsxhookd6-7)
+- **Maquetado Web** — Educación IT (2022) · [Ver constancia](https://drive.google.com/file/d/1P3NtP8i4te6S2wbJXw6nPknmV1gREivh/view)
+- **Desarrollo Web** — Crehana (2022) · [Ver constancia](https://drive.google.com/file/d/1Mjqxsj4T66zp2V9cAGkY-uHK0GCjVvD1/view)
+
+</details>
+
+<details>
+<summary><b>⚙️ Back-End</b> — 2 certificaciones</summary>
+
+- **Back-End con Node** — Talento Tech (2026) · [Proximamente](#)
+- **Programación Web con PHP & SQL** — Educación IT (2022) · [Ver constancia](https://drive.google.com/file/d/1y3dDOAXr_gYl2SPhbgtSButklS3hx0EP/view)
+</details>
+
+
+<details>
+<summary><b>🎨 Diseño</b> — 2 certificación</summary>
+
+- **Diseñadora Gráfica Digital** — ORT (2024) · [Ver constancia](https://drive.google.com/file/d/1ZDxu88KGn_yEL3D6CoGZzZPgCc6SFFQE/view)
+- **WordPress** — Educación IT (2022) · [Ver constancia](https://drive.google.com/file/d/1CxygN-_AZO6E4z9zxznqvcJt7UXqBV2K/view)
+</details>
