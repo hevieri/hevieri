@@ -86,20 +86,6 @@
 
 
 ---
-
-## 📊 GitHub Analytics
-<p align="center">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hevieri&theme=github_dark"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hevieri&theme=github_dark"/>
-<img width="32%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hevieri&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000&title_color=ff6b81&text_color=e0e0e0&icon_color=9b4dff"/>
-</p>
-<p align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hevieri&theme=github_dark"/>
-</p>
-
-
-
----
 ## 🏆 Certificaciones
 
 <details>
@@ -137,3 +123,21 @@
 - **Diseñadora Gráfica Digital** — ORT (2024) · [Ver constancia](https://drive.google.com/file/d/1ZDxu88KGn_yEL3D6CoGZzZPgCc6SFFQE/view)
 - **WordPress** — Educación IT (2022) · [Ver constancia](https://drive.google.com/file/d/1CxygN-_AZO6E4z9zxznqvcJt7UXqBV2K/view)
 </details>
+
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hevieri&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hevieri&theme=github_dark"/>
+<img width="32%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hevieri&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000&title_color=ff6b81&text_color=e0e0e0&icon_color=9b4dff"/>
+</p>
+<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hevieri&theme=github_dark"/>
+</p>
+
+
+
+---
+
