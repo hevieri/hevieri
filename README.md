@@ -98,16 +98,6 @@
 </p>
 
 
-## 🏆 Certificaciones
-- ✅ Back End con Node - Talento Tech (2026) 
-- ✅ QA Manual - XAcademy (2026)
-- ✅ QA Automation – Talento Tech (2026)
-- ✅ QA Manual – Talento Tech (2025)
-- ✅ Diseñadora Gráfica Digital – ORT (2024)
-- ✅ Programación Web con PHP & SQL – Educación IT (2022)
-- ✅ WordPress – Educación IT (2022)
-- ✅ JavaScript desde Cero – Educación IT (2022)
-
 
 ---
 ## 🏆 Certificaciones
