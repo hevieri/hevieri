@@ -20,6 +20,16 @@
 <h1 align="center">✨ Hola, soy <strong>Erika Helfenstern</strong> 👩‍💻</h1>
 <h3 align="center"> Desarrolladora Web | QA Tester 🚀</h3> 
 
+<pre>
+💻 Soy Frontend & QA.
+📝 Si bien tengo varias certificaciones, mi método es autodidacta.
+🔭 Aprendiendo Backend y Testing Automatizado.
+🌱 Aprendiendo Node y Playwright.
+🚩 Sigo poniéndome metas y forzando mi aprendizaje, con y sin IA.
+</pre>
+<hr>
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/hevieri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Erika%20Helfenstern-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -32,23 +42,13 @@
   <a href="mailto:hevieri.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-hevieri.dev@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-
-
-</p>
-<p align="center">
-  <a href=https://hevieri.github.io/cv-hevieri/>
-    <img src="https://img.shields.io/badge/-Ver%20mi%20CV-4A90D9?style=for-the-badge" />
-  </a>
-</p>
-
-<!--
-  <a href="https://tu-sitio-web.com" target="_blank">
+   <a href="https://cv-hevieri.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Sitio%20Web-Portfolio-8A2BE2?logo=google-chrome&logoColor=white" alt="Sitio Web" />
-  </a>-->
----
 
 
+</p>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## My Skills
 #### Frontend:
@@ -84,8 +84,12 @@
 &nbsp;
 &nbsp;
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
----
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 ## 🏆 Certificaciones
 
 <details>
@@ -124,20 +128,46 @@
 - **WordPress** — Educación IT (2022) · [Ver constancia](https://drive.google.com/file/d/1CxygN-_AZO6E4z9zxznqvcJt7UXqBV2K/view)
 </details>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+
+<br>
+
+## 💻 Bit Panel de Datos Públicos
+Proyecto de desarrollo front‑end para el equipo 69, con enfoque en diseño modular, componentes reutilizables y despliegue en Vercel.  
+Ideal para prácticas de QA y testing visual.  
+**• HTML ⭐ 4** — [Ver proyecto](https://s06-26-nc-equipo-69-b2g-frontend.vercel.app/)
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hevieri&theme=github_dark"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hevieri&theme=github_dark"/>
-<img width="32%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hevieri&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000&title_color=ff6b81&text_color=e0e0e0&icon_color=9b4dff"/>
-</p>
-<p align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hevieri&theme=github_dark"/>
-</p>
-
-
+## 🧮 Calculador
+Proyecto de desarrollo front‑end enfocado en calculadoras visuales y conversores, implementados con un diseño modular y claro.  
+Incluye funcionalidades para cálculos rápidos y conversiones intuitivas.  
+**• HTML ⭐ 1** — [Ver proyecto](https://hevieri.github.io/Calculador/index.html)
 
 ---
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hevieri/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Erika%20Helfenstern-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://wa.me/5491162178105" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Escribime-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+
+  <a href="mailto:hevieri.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hevieri.dev@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+   <a href="https://cv-hevieri.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Sitio%20Web-Portfolio-8A2BE2?logo=google-chrome&logoColor=white" alt="Sitio Web" />
+
+
+</p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
